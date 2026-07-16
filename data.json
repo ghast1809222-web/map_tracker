@@ -16,9 +16,9 @@
     "y": 52.0
   },
   {
-    "id": "0-G3",
-    "label": "G3",
-    "category": "G",
+    "id": "0-A7",
+    "label": "A7",
+    "category": "A",
     "panelIndex": 0,
     "x": 61.5,
     "y": 20.0
@@ -376,9 +376,9 @@
     "y": 82.0
   },
   {
-    "id": "6-G8",
-    "label": "G8",
-    "category": "G",
+    "id": "6-D10",
+    "label": "D10",
+    "category": "D",
     "panelIndex": 6,
     "x": 29.5,
     "y": 70.0
