@@ -8,9 +8,9 @@
     "y": 52.0
   },
   {
-    "id": "0-G2",
-    "label": "G2",
-    "category": "G",
+    "id": "0-E5",
+    "label": "E5",
+    "category": "E",
     "panelIndex": 0,
     "x": 29.5,
     "y": 52.0
@@ -112,8 +112,8 @@
     "y": 16.0
   },
   {
-    "id": "1-G7",
-    "label": "G7",
+    "id": "1-F5",
+    "label": "F5",
     "category": "G",
     "panelIndex": 1,
     "x": 87.5,
@@ -144,32 +144,32 @@
     "y": 66.0
   },
   {
-    "id": "2-G3",
-    "label": "G3",
-    "category": "G",
+    "id": "2-C8",
+    "label": "C8",
+    "category": "C",
     "panelIndex": 2,
     "x": 46.0,
     "y": 40.0
   },
   {
-    "id": "2-G4",
-    "label": "G4",
-    "category": "G",
+    "id": "2-C9",
+    "label": "C9",
+    "category": "C",
     "panelIndex": 2,
     "x": 51.0,
     "y": 40.0
   },
   {
-    "id": "2-G5",
-    "label": "G5",
-    "category": "G",
+    "id": "2-A10",
+    "label": "A10",
+    "category": "A",
     "panelIndex": 2,
     "x": 84.5,
     "y": 6.0
   },
   {
-    "id": "2-G6",
-    "label": "G6",
+    "id": "2-F7",
+    "label": "F7",
     "category": "G",
     "panelIndex": 2,
     "x": 89.5,
