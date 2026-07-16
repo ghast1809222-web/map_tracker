@@ -1,64 +1,64 @@
 [
   {
-    "id": "0-F4",
-    "label": "F4",
-    "category": "F",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 24.5,
     "y": 52.0
   },
   {
-    "id": "0-E5",
-    "label": "E5",
-    "category": "E",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 29.5,
     "y": 52.0
   },
   {
-    "id": "0-E7",
-    "label": "E7",
-    "category": "E",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 61.5,
     "y": 20.0
   },
   {
-    "id": "0-A5",
-    "label": "A5",
-    "category": "A",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 66.5,
     "y": 20.0
   },
   {
-    "id": "0-E9",
-    "label": "E9",
-    "category": "E",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 77.5,
     "y": 30.0
   },
   {
-    "id": "0-C3",
-    "label": "C3",
-    "category": "C",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 82.5,
     "y": 30.0
   },
   {
-    "id": "0-A1",
-    "label": "A1",
-    "category": "A",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 74.5,
     "y": 47.0
   },
   {
-    "id": "0-D5",
-    "label": "D5",
-    "category": "D",
+    "id": "0-G",
+    "label": "G",
+    "category": "G",
     "panelIndex": 0,
     "x": 79.5,
     "y": 47.0
