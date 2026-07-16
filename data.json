@@ -32,9 +32,9 @@
     "y": 20.0
   },
   {
-    "id": "0-G5",
-    "label": "G5",
-    "category": "G",
+    "id": "0-C3",
+    "label": "C3",
+    "category": "C",
     "panelIndex": 0,
     "x": 77.5,
     "y": 30.0
@@ -56,9 +56,9 @@
     "y": 47.0
   },
   {
-    "id": "0-G8",
-    "label": "G8",
-    "category": "G",
+    "id": "0-E6",
+    "label": "E6",
+    "category": "E",
     "panelIndex": 0,
     "x": 79.5,
     "y": 47.0
@@ -464,9 +464,9 @@
     "y": 56.0
   },
   {
-    "id": "7-G8",
-    "label": "G8",
-    "category": "G",
+    "id": "7-C10",
+    "label": "C10",
+    "category": "C",
     "panelIndex": 7,
     "x": 36.5,
     "y": 59.0
