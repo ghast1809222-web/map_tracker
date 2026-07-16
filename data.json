@@ -128,17 +128,17 @@
     "y": 82.0
   },
   {
-    "id": "2-G1",
-    "label": "G1",
+    "id": "2-B3",
+    "label": "B3",
     "category": "G",
     "panelIndex": 2,
     "x": 12.0,
     "y": 14.5
   },
   {
-    "id": "2-G2",
-    "label": "G2",
-    "category": "G",
+    "id": "2-C4",
+    "label": "C4",
+    "category": "C",
     "panelIndex": 2,
     "x": 9.0,
     "y": 66.0
@@ -280,9 +280,9 @@
     "y": 78.0
   },
   {
-    "id": "5-G4",
-    "label": "G4",
-    "category": "G",
+    "id": "5-F7",
+    "label": "F7",
+    "category": "F",
     "panelIndex": 5,
     "x": 11.5,
     "y": 78.0
