@@ -136,11 +136,19 @@
     "y": 14.5
   },
   {
+    "id": "2-A1",
+    "label": "A1",
+    "category": "A",
+    "panelIndex": 2,
+    "x": 9.0,
+    "y": 66.0
+  },
+  {
     "id": "2-C4",
     "label": "C4",
     "category": "C",
     "panelIndex": 2,
-    "x": 9.0,
+    "x": 14.0,
     "y": 66.0
   },
   {
