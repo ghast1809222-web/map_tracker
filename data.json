@@ -114,7 +114,7 @@
   {
     "id": "1-F5",
     "label": "F5",
-    "category": "G",
+    "category": "F",
     "panelIndex": 1,
     "x": 87.5,
     "y": 82.0
@@ -170,7 +170,7 @@
   {
     "id": "2-F7",
     "label": "F7",
-    "category": "G",
+    "category": "F",
     "panelIndex": 2,
     "x": 89.5,
     "y": 6.0
