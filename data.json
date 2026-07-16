@@ -1,5 +1,8 @@
 [
   {
+  "devOverlay": false
+  },
+  {
     "id": "0-B7",
     "label": "B7",
     "category": "B",
@@ -504,17 +507,17 @@
     "y": 56.0
   },
   {
-    "id": "7-C10",
-    "label": "C10",
-    "category": "C",
+    "id": "7-A6",
+    "label": "A6",
+    "category": "A",
     "panelIndex": 7,
     "x": 36.5,
     "y": 59.0
   },
   {
-    "id": "7-A6",
-    "label": "A6",
-    "category": "A",
+    "id": "7-C10",
+    "label": "C10",
+    "category": "C",
     "panelIndex": 7,
     "x": 41.5,
     "y": 59.0
