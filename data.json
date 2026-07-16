@@ -444,15 +444,23 @@
     "label": "B1",
     "category": "B",
     "panelIndex": 7,
-    "x": 21.5,
+    "x": 18.5,
     "y": 4.0
   },
   {
-    "id": "7-G2",
-    "label": "G2",
-    "category": "G",
+    "id": "7-B5",
+    "label": "B5",
+    "category": "B",
     "panelIndex": 7,
-    "x": 26.5,
+    "x": 23.5,
+    "y": 4.0
+  },
+  {
+    "id": "7-B9",
+    "label": "B9",
+    "category": "B",
+    "panelIndex": 7,
+    "x": 28.5,
     "y": 4.0
   },
   {
@@ -536,8 +544,8 @@
     "y": 80.0
   },
     {
-    "id": "7-0",
-    "label": "0",
+    "id": "7-",
+    "label": "",
     "category": "",
     "panelIndex": 7,
     "x": 57.5,
