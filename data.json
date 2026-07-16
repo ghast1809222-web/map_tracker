@@ -376,11 +376,19 @@
     "y": 10.0
   },
   {
+    "id": "6-C5",
+    "label": "C5",
+    "category": "C",
+    "panelIndex": 6,
+    "x": 4.5,
+    "y": 82.0
+  },
+  {
     "id": "6-D4",
     "label": "D4",
     "category": "D",
     "panelIndex": 6,
-    "x": 4.5,
+    "x": 9.5,
     "y": 82.0
   },
   {
